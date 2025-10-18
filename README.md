@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26pause%3D1000%26color%3D3399FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D450%26lines%3DBackend%2BDeveloper%3BPHP%2B%252F%2BLaravel%2BExpert%3BBuilding%2Bthe%2BWeb%27s%2BBackbone%3BClean%2BCode%2B%2526%2BSolid%2BLogic%2BEnthusiast" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26pause%3D1000%26color%3D3399FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D450%26lines%3DBackend%2BDeveloper%3BPHP%2B%252F%2BLaravel%2BExpert%3BBuilding%2Bthe%2BBackbone%2Bof%2Bthe%2BWeb%3BClean%2BCode%2B%2526%2BSolid%2BLogic%2BEnthusiast" alt="Typing SVG" />
 </a>
 </div>
 
@@ -31,8 +31,8 @@
 📊 آمار گیت‌هاب
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dreza11ta%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26bg_color%3D282a36%26text_color%3Df8f8f2%26icon_color%3Dff79c6%26title_color%3Dbd93f9" alt="GitHub Stats" height="170"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dreza11ta%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue%26bg_color%3D282a36%26text_color%3Df8f8f2" alt="Top Languages" height="170"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dreza11ta%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" height="170"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dreza11ta%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Languages" height="170"/>
 </div>
 
 🏆 دستاوردها و افتخارات
