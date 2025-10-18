@@ -63,7 +63,7 @@
 
 ---
 
-<h3 align="center">✨ ساخته‌شده با عشق و منطق ❤️ توسط <span style="color:#0078FF;">Reza</span></h3>
+<h3 align="center">Made with love ❤️ by Reza</h3>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
