@@ -1,4 +1,4 @@
-<h1 align="center">👋 سلام! من <span style="color:#0078FF;">رضا</span> هستم</h1>
+<h1 align="center">👋 Hey there! I'm <span style="color:#0078FF;">Reza</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Backend+Developer;Laravel+%26+PHP+Specialist;Clean+Code+Lover;Always+Learning+New+Things!" alt="Typing SVG" />
@@ -6,24 +6,24 @@
 
 ---
 
-### 🧑‍💻 درباره من
+### 🧑‍💻 About Me
 
-- 🚀 توسعه‌دهنده‌ی **بک‌اند** با تمرکز روی **PHP / Laravel**
-- 🧩 عاشق ساخت **سیستم‌های تمیز، امن و مقیاس‌پذیر**
-- 💡 علاقه‌مند به **یادگیری مداوم** و درک عمیق مفاهیم مهندسی نرم‌افزار
-- ⚙️ معتقدم «کد تمیز، سریع‌تره» 😄
+- 🚀 **Backend Developer** focused on **PHP / Laravel**
+- 🧩 Passionate about building **clean, secure, and scalable systems**
+- 💡 Always eager to **learn new technologies** and dive deeper into software engineering concepts
+- ⚙️ Firm believer that *“Clean code runs faster!”* 😄
 
 ---
 
-### 🧠 مهارت‌ها و تکنولوژی‌ها
+### 🧠 Skills & Technologies
 
-#### 💻 زبان‌ها و فریم‌ورک‌ها
+#### 💻 Languages & Frameworks
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,mysql,git,github" />
 </p>
 
-#### 🛠️ ابزارها و محیط‌ها
+#### 🛠️ Tools & Environments
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,postman,figma,nginx,docker,linux" />
@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 آمار گیت‌هاب من
+### 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reza11ta&theme=radical&hide_border=true" height="165" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 🏆 دستاوردها و افتخارات
+### 🏆 Achievements & Highlights
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=reza11ta&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
@@ -48,13 +48,13 @@
 
 ---
 
-### ⚡ نکته جالب
+### ⚡ Fun Fact
 
-> "هر خط کد، فرصتی برای یادگیری چیزیه که دیروز بلد نبودی."
+> "Every line of code is a chance to learn something you didn’t know yesterday."
 
 ---
 
-### 🌐 ارتباط با من
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://reza11ta.github.io/portfolio/" target="_blank">
@@ -63,9 +63,9 @@
   <a href="mailto:reza1110ta@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="https://www.linkedin.com/in/reza-tavakoli1110/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/reza-tavakoli1110/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/reza11ta" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -73,7 +73,7 @@
 
 ---
 
-<h3 align="center">Made with love ❤️ by Reza</h3>
+<h3 align="center">Made with ❤️ by Reza</h3>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
