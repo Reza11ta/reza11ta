@@ -17,7 +17,7 @@
 
 #### 💻 زبان‌ها و فریم‌ورک‌ها
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlserver,html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github" />
 </p>
 
 #### 🧠 ابزارها و تکنولوژی‌ها
