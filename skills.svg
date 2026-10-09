@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="782" viewBox="0 0 560 782" role="img" aria-label="Skill levels: PHP, MySQL, JavaScript, HTML and CSS, PWA, hosting at maximum; security, tech lead, English 90; SEO 70; Laravel, React 60; UI/UX 50">
+<defs>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#6D28D9"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+<filter id="bl" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+<style>
+.sn{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+.t{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace}
+.gr{transform-box:fill-box;transform-origin:left center;animation:gw 1.4s cubic-bezier(.2,.8,.2,1) both}
+@keyframes gw{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.pl{animation:gw 1.4s cubic-bezier(.2,.8,.2,1) both,pu 2.4s ease-in-out 1.5s infinite}
+@keyframes pu{0%,100%{opacity:.25}50%{opacity:.9}}
+.mxl{animation:mx 2s ease-in-out infinite}
+@keyframes mx{0%,100%{opacity:.7}50%{opacity:1}}
+</style>
+<rect x="1.5" y="1.5" width="557" height="779" rx="18" fill="#0d081c" stroke="#3b2a66" stroke-width="2"/>
+<text class="t" x="26" y="44" font-size="20" font-weight="700" fill="#C4B5FD">// POWER LEVELS</text>
+<text class="t" x="26" y="68" font-size="15" fill="#8B7BC4">cap? what cap.</text>
+<text class="t" x="26" y="434" font-size="20" font-weight="700" fill="#C4B5FD">// STILL LEVELING UP</text>
+<text class="t" x="26" y="458" font-size="15" fill="#8B7BC4">loading ...</text>
+<text class="sn" x="26" y="110" font-size="18" fill="#F3E8FF">PHP</text>
+<rect x="212" y="97" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr pl" x="212" y="97" width="236.0" height="14" rx="7" fill="#A78BFA" filter="url(#bl)" style="animation-delay:0.0s"/>
+<rect class="gr" x="212" y="97" width="236.0" height="14" rx="7" fill="url(#bar)" style="animation-delay:0.0s"/>
+<text class="sn mxl" x="468" y="110" font-size="18" font-weight="700" fill="#DDD6FE">MAX+</text>
+<text class="sn" x="26" y="150" font-size="18" fill="#F3E8FF">MySQL</text>
+<rect x="212" y="137" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr pl" x="212" y="137" width="236.0" height="14" rx="7" fill="#A78BFA" filter="url(#bl)" style="animation-delay:0.1s"/>
+<rect class="gr" x="212" y="137" width="236.0" height="14" rx="7" fill="url(#bar)" style="animation-delay:0.1s"/>
+<text class="sn mxl" x="468" y="150" font-size="18" font-weight="700" fill="#DDD6FE">MAX+</text>
+<text class="sn" x="26" y="190" font-size="18" fill="#F3E8FF">JavaScript</text>
+<rect x="212" y="177" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr pl" x="212" y="177" width="236.0" height="14" rx="7" fill="#A78BFA" filter="url(#bl)" style="animation-delay:0.2s"/>
+<rect class="gr" x="212" y="177" width="236.0" height="14" rx="7" fill="url(#bar)" style="animation-delay:0.2s"/>
+<text class="sn mxl" x="468" y="190" font-size="18" font-weight="700" fill="#DDD6FE">MAX+</text>
+<text class="sn" x="26" y="230" font-size="18" fill="#F3E8FF">HTML &amp; CSS</text>
+<rect x="212" y="217" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr pl" x="212" y="217" width="236.0" height="14" rx="7" fill="#A78BFA" filter="url(#bl)" style="animation-delay:0.3s"/>
+<rect class="gr" x="212" y="217" width="236.0" height="14" rx="7" fill="url(#bar)" style="animation-delay:0.3s"/>
+<text class="sn mxl" x="468" y="230" font-size="18" font-weight="700" fill="#DDD6FE">MAX+</text>
+<text class="sn" x="26" y="270" font-size="18" fill="#F3E8FF">PWA / TWA</text>
+<rect x="212" y="257" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr pl" x="212" y="257" width="236.0" height="14" rx="7" fill="#A78BFA" filter="url(#bl)" style="animation-delay:0.4s"/>
+<rect class="gr" x="212" y="257" width="236.0" height="14" rx="7" fill="url(#bar)" style="animation-delay:0.4s"/>
+<text class="sn mxl" x="468" y="270" font-size="18" font-weight="700" fill="#DDD6FE">MAX+</text>
+<text class="sn" x="26" y="310" font-size="18" fill="#F3E8FF">Hosting &amp; Deploy</text>
+<rect x="212" y="297" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr pl" x="212" y="297" width="236.0" height="14" rx="7" fill="#A78BFA" filter="url(#bl)" style="animation-delay:0.5s"/>
+<rect class="gr" x="212" y="297" width="236.0" height="14" rx="7" fill="url(#bar)" style="animation-delay:0.5s"/>
+<text class="sn mxl" x="468" y="310" font-size="18" font-weight="700" fill="#DDD6FE">MAX+</text>
+<text class="sn" x="26" y="350" font-size="18" fill="#F3E8FF">Backend Mentor</text>
+<rect x="212" y="337" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr pl" x="212" y="337" width="236.0" height="14" rx="7" fill="#A78BFA" filter="url(#bl)" style="animation-delay:0.6s"/>
+<rect class="gr" x="212" y="337" width="236.0" height="14" rx="7" fill="url(#bar)" style="animation-delay:0.6s"/>
+<text class="sn mxl" x="468" y="350" font-size="18" font-weight="700" fill="#DDD6FE">MAX+</text>
+<text class="sn" x="26" y="390" font-size="18" fill="#F3E8FF">Frontend Mentor</text>
+<rect x="212" y="377" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr pl" x="212" y="377" width="236.0" height="14" rx="7" fill="#A78BFA" filter="url(#bl)" style="animation-delay:0.7s"/>
+<rect class="gr" x="212" y="377" width="236.0" height="14" rx="7" fill="url(#bar)" style="animation-delay:0.7s"/>
+<text class="sn mxl" x="468" y="390" font-size="18" font-weight="700" fill="#DDD6FE">MAX+</text>
+<text class="sn" x="26" y="500" font-size="18" fill="#F3E8FF">Security &amp; Pentest</text>
+<rect x="212" y="487" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr" x="212" y="487" width="212.4" height="14" rx="7" fill="url(#bar)" style="animation-delay:0.8s"/>
+<text class="sn" x="468" y="500" font-size="18" font-weight="700" fill="#C4B5FD">90</text>
+<text class="sn" x="26" y="540" font-size="18" fill="#F3E8FF">Tech Lead</text>
+<rect x="212" y="527" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr" x="212" y="527" width="212.4" height="14" rx="7" fill="url(#bar)" style="animation-delay:0.9s"/>
+<text class="sn" x="468" y="540" font-size="18" font-weight="700" fill="#C4B5FD">90</text>
+<text class="sn" x="26" y="580" font-size="18" fill="#F3E8FF">English</text>
+<rect x="212" y="567" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr" x="212" y="567" width="212.4" height="14" rx="7" fill="url(#bar)" style="animation-delay:1.0s"/>
+<text class="sn" x="468" y="580" font-size="18" font-weight="700" fill="#C4B5FD">90</text>
+<text class="sn" x="26" y="620" font-size="18" fill="#F3E8FF">SEO &amp; Content</text>
+<rect x="212" y="607" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr" x="212" y="607" width="165.2" height="14" rx="7" fill="url(#bar)" style="animation-delay:1.1s"/>
+<text class="sn" x="468" y="620" font-size="18" font-weight="700" fill="#C4B5FD">70</text>
+<text class="sn" x="26" y="660" font-size="18" fill="#F3E8FF">Laravel</text>
+<rect x="212" y="647" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr" x="212" y="647" width="141.6" height="14" rx="7" fill="url(#bar)" style="animation-delay:1.2s"/>
+<text class="sn" x="468" y="660" font-size="18" font-weight="700" fill="#C4B5FD">60</text>
+<text class="sn" x="26" y="700" font-size="18" fill="#F3E8FF">React</text>
+<rect x="212" y="687" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr" x="212" y="687" width="141.6" height="14" rx="7" fill="url(#bar)" style="animation-delay:1.3s"/>
+<text class="sn" x="468" y="700" font-size="18" font-weight="700" fill="#C4B5FD">60</text>
+<text class="sn" x="26" y="740" font-size="18" fill="#F3E8FF">UI / UX</text>
+<rect x="212" y="727" width="236" height="14" rx="7" fill="#22153f"/>
+<rect class="gr" x="212" y="727" width="118.0" height="14" rx="7" fill="url(#bar)" style="animation-delay:1.4s"/>
+<text class="sn" x="468" y="740" font-size="18" font-weight="700" fill="#C4B5FD">50</text>
+
+</svg>
