@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Reza Tavakoli" width="800" />
+  <img src="header.svg" alt="Reza Tavakoli" width="800" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="terminal" width="640" />
+  <img src="terminal.svg" alt="terminal" width="640" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ## ⚡ Skills
 
 <p align="center">
-  <img src="assets/skills.svg" alt="skills" width="560" />
+  <img src="skills.svg" alt="skills" width="560" />
 </p>
 
 <p align="center">
