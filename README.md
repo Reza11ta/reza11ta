@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Reza Tavakoli" width="100%" />
+  <img src="assets/header.svg" alt="Reza Tavakoli" width="800" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="terminal" width="82%" />
+  <img src="assets/terminal.svg" alt="terminal" width="640" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ## ⚡ Skills
 
 <p align="center">
-  <img src="assets/skills.svg" alt="skills" width="92%" />
+  <img src="assets/skills.svg" alt="skills" width="560" />
 </p>
 
 <p align="center">
@@ -61,7 +61,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=reza11ta&theme=radical&hide_border=true&height=165" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reza11ta&layout=compact&theme=radical&hide_border=true" height="165" />
 </p>
 
 ---
